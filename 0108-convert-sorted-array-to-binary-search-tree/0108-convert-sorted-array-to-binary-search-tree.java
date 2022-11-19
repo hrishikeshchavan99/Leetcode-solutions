@@ -21,8 +21,8 @@ class Solution {
     public TreeNode constructTree(int[] nums, int left, int right){
         if (right < left) return null;
         int midpoint = left + (right-left)/2;
-        TreeNode root = new TreeNode(nums[midpoint]);
-        //root.val = nums[midpoint];
+        TreeNode root = new TreeNode();
+        root.val = nums[midpoint];
         root.left = constructTree(nums, left, midpoint-1);
         root.right = constructTree(nums, midpoint+1, right);
         return root;
