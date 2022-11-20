@@ -9,7 +9,7 @@ class Solution {
             }
                 
             else{
-                if (sub.length() > count) count = sub.length();
+                //if (sub.length() > count) count = sub.length();
                 index = sub.indexOf(s.charAt(i));
                 i = i - sub.length() + index;
                 sub = "";
