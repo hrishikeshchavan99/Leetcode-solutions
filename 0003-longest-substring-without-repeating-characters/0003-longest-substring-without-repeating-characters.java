@@ -12,9 +12,6 @@ class Solution {
                 index = sub.indexOf(s.charAt(i));
                 sub = sub.substring(index+1);
                 sub += s.charAt(i);
-                System.out.println(sub);
-                //i = i - sub.length() + index;
-                //sub = "";
             }
         }
         return count;
