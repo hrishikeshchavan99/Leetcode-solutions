@@ -26,8 +26,8 @@ class Solution {
         if (result.size() <= level)
             result.add(new ArrayList<Integer>());
         result.get(level).add(node.val);
-        if (node.left != null) traverse(node.left, level + 1);
-        if (node.right != null) traverse(node.right, level + 1);
+        traverse(node.left, level + 1);
+        traverse(node.right, level + 1);
         
     }
 }
