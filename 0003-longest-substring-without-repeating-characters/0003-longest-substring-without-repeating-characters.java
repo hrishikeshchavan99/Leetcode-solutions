@@ -8,8 +8,7 @@ class Solution {
                 if (sub.length() > count) count = sub.length();
             }
                 
-            else{
-                //if (sub.length() > count) count = sub.length();
+            else{ 
                 index = sub.indexOf(s.charAt(i));
                 i = i - sub.length() + index;
                 sub = "";
