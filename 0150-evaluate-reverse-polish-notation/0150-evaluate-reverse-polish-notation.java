@@ -14,7 +14,7 @@ class Solution {
         }
         return st.pop();
     }
-    private int cal(int num1, int num2, String str){
+    private Integer cal(Integer num1, Integer num2, String str){
         switch(str){
             case "+":
                 return num1 + num2;
