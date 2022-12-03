@@ -13,8 +13,6 @@ class Solution {
                 result[i] = prod/nums[i];
             else if (nums[i] == 0 && flag == 1)
                 result[i] = prod;
-            else if (nums[i] == 0 && flag == 2)
-                result[i] = 0;
             else 
                 result[i] = 0;
                 
