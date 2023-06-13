@@ -16,7 +16,7 @@ class TimeMap {
     }
     
     public String get(String key, int timestamp) {
-        if (map.get(key) != null){
+        if (map.containsKey(key)){
             if (map.get(key).containsKey(timestamp)){
                 return map.get(key).get(timestamp);
             }
