@@ -1,11 +1,12 @@
 class Solution {
+    //Prims algorithm
     public int minCostConnectPoints(int[][] points) {
         int n = points.length;
         boolean[] visited = new boolean[n];
         int[] dist = new int[n];
         int next = 0, sum = 0;
         visited[0] = true;
-
+        
         for (int i = 0; i < n; i++){
             dist[i] = findDist(points, 0, i);
         }
