@@ -1,5 +1,5 @@
 class Solution {
-    //BFS/ Dijkastra's Alogorithm
+    //BFS/ Dijkastra's Alogorithm- https://www.youtube.com/watch?v=V6H1qAeB-l4
     public int networkDelayTime(int[][] times, int n, int k) {
         Map<Integer, Map<Integer, Integer>> map = new HashMap();
         boolean[] visited = new boolean[n+1];
