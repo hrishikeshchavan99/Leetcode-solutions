@@ -16,3 +16,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0055-jump-game) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
+<!---LeetCode Topics End-->
