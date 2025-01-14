@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Two Pointers
 |  |
@@ -34,4 +35,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
+## Matrix
+|  |
+| ------- |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 <!---LeetCode Topics End-->
