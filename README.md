@@ -67,10 +67,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0050-powx-n) |
 ## Tree
 |  |
 | ------- |
