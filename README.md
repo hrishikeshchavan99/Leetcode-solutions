@@ -45,10 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Matrix
 |  |
