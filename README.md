@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
+| [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0050-powx-n) |
+| [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
 |  |
 | ------- |
@@ -110,4 +114,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
