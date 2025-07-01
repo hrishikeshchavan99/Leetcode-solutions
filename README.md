@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -94,12 +95,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
