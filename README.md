@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
