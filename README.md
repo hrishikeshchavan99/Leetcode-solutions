@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Bit Manipulation
