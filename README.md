@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0525-contiguous-array](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
