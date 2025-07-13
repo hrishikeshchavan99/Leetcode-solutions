@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0133-clone-graph) |
+| [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0525-contiguous-array) |
 ## Linked List
 |  |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,5 +184,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
