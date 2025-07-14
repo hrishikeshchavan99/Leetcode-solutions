@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0871-keys-and-rooms](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0871-keys-and-rooms](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0133-clone-graph) |
+| [0871-keys-and-rooms](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 ## Binary Search Tree
 |  |
 | ------- |
