@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0328-odd-even-linked-list](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Graph
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -189,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
