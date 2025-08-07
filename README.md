@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0525-contiguous-array](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0940-fruit-into-baskets](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0940-fruit-into-baskets](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-fruit-into-baskets](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Merge Sort
 |  |
