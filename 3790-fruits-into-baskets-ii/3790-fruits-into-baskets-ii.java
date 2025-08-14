@@ -4,17 +4,15 @@ class Solution {
         boolean[] visited = new boolean[fruits.length];
 
         for (int i = 0; i < fruits.length; i++){
-            boolean found = false;
             for (int j = 0; j < baskets.length; j++){
                 if (!visited[j] && baskets[j] >= fruits[i]){
                     visited[j] = true;
-                    found = true;
+                    cnt++;
                     break;
                 }
             }
-            if (!found) cnt++;
         }
         
-        return cnt;
+        return fruits.length - cnt;
     }
 }
