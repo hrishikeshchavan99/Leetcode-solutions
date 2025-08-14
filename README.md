@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [3790-fruits-into-baskets-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -205,4 +207,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [3790-fruits-into-baskets-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
