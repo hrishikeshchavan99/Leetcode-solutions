@@ -1,3 +1,44 @@
+
+public class Solution {
+    public int lengthOfLIS(int[] nums) {
+        int len = nums.length;
+        int[][] dp = new int[len][len+1];
+        return lengthOfLIS(nums, 0, -1, dp);
+    }
+
+    public int lengthOfLIS(int[] nums, int idx, int lastIdx, int[][] dp){
+
+        if (idx == nums.length){
+            return 0;
+        }
+        
+        if (dp[idx][lastIdx+1] != 0 ){
+            return dp[idx][lastIdx+1];
+        }
+    
+        int res1 = lengthOfLIS(nums, idx+1, lastIdx, dp);
+        int res2 = 0;
+        if (lastIdx == -1 || nums[idx] > nums[lastIdx]){
+            res2 = 1 + lengthOfLIS(nums, idx+1, idx, dp);
+        }
+
+        dp[idx][lastIdx+1] = Math.max(res1, res2);
+
+        return dp[idx][lastIdx+1];
+
+
+    } 
+}
+
+
+
+
+
+
+
+
+
+
 /*
 class Solution {
     //Watch strivers video
@@ -24,7 +65,7 @@ class Solution {
 */
 
 //striver binary soln: https://www.youtube.com/watch?v=on2hvxBXJH4
-
+/*
 public class Solution {
     public int lengthOfLIS(int[] nums) {
         int len = 0;
@@ -39,3 +80,5 @@ public class Solution {
         return len;
     }
 }
+*/
+
