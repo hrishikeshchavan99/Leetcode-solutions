@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0525-contiguous-array](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Bit Manipulation
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0133-clone-graph](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0133-clone-graph) |
 | [0226-invert-binary-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0871-keys-and-rooms](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1036-rotting-oranges) |
