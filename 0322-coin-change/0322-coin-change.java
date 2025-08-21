@@ -1,23 +1,30 @@
-/*class Solution {
+class Solution {
     public int coinChange(int[] coins, int amount) {
-        return coinChange(coins, amount, 0);
+        int[][] dp = new int[amount+1][coins.length];
+        for (int i = 0; i <= amount; i++){
+            Arrays.fill(dp[i], -1);
+        }
+        
+        int res = coinChange(coins, amount, 0, dp);
+        return res >= 100_000 ? -1: res;
     }
-    public int coinChange(int[] coins, int amount, int idx) {
+    public int coinChange(int[] coins, int amount, int idx, int[][] dp) {
         if (amount == 0){
             return 0;
         }
+        if (dp[amount][idx] != -1 ) return dp[amount][idx];
     
-        int m1 = , m2 = Integer.MAX_VALUE;
+        int m1 = 100_000, m2 = 100_000;
         if (idx + 1 < coins.length)
-            m1 = coinChange(coins, amount, idx+1);
+            m1 = coinChange(coins, amount, idx+1, dp);
         
         if (amount >= coins[idx] && idx < coins.length)
-            m2 = 1 + coinChange(coins, amount-coins[idx], idx);
+            m2 = 1 + coinChange(coins, amount-coins[idx], idx, dp);
 
-        return Math.min(m1, m2);
+        return dp[amount][idx] = Math.min(m1, m2);
     }
-}*/
-
+}
+/*
 class Solution {
     public int coinChange(int[] coins, int amount) {
         if (amount == 0) return 0;
@@ -37,3 +44,4 @@ class Solution {
         return dp[amount] > amount ? -1: dp[amount];
     }
 }
+*/
