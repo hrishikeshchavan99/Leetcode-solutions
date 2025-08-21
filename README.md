@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0518-coin-change-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0940-fruit-into-baskets](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0338-counting-bits) |
+| [0518-coin-change-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Bit Manipulation
 |  |
