@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0322-coin-change) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0300-longest-increasing-subsequence](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [3790-fruits-into-baskets-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
