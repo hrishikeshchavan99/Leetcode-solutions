@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0940-fruit-into-baskets](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
