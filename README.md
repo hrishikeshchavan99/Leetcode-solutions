@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -243,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
