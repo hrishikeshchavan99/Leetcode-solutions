@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/hrishikeshchavan99/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Linked List
 |  |
 | ------- |
